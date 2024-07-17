@@ -1,0 +1,7 @@
+**Links**
+
+Desafíos propuestos y sus soluciones:
+https://github.com/alura-es-cursos/desafios-logica-programacion/tree/main
+
+Archivo final de proyecto Juego Adivinanzas
+https://github.com/alura-es-cursos/2035-logica-programacion-2/archive/refs/heads/Aula5.zip
